@@ -1,7 +1,7 @@
 # 🧪 Linux (Ubuntu) Setup & Basic Administration Lab
 
 ## 📌 Objective
-The purpose of this lab was to install and configure a Linux environment using Ubuntu and perform basic system administration tasks through the command line.
+This lab focused on installing and configuring a Linux environment and performing basic system administration tasks using command lines.
 
 ---
 
