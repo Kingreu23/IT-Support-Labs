@@ -23,7 +23,7 @@ The purpose of this lab was to install and configure a Linux environment using U
 ### 1. Verified current directory
 Used `pwd` to confirm current working directory.
 
-![pwd](step1-pwd.png)
+![pwd](step 1.png)
 
 ---
 
