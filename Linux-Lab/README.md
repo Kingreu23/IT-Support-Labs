@@ -51,7 +51,7 @@ Used `cd lab1` and `touch file1.txt` to create a file.
 ### 5. Checked and modified permissions
 Used `ls -l` to view permissions and `chmod 700 file1.txt` to restrict access.
 
-![permissions](step5.png)
+![permissions](step6.png)
 
 ---
 
