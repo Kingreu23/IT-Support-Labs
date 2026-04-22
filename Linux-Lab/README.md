@@ -44,7 +44,7 @@ Used `mkdir lab1` to create a working folder.
 ### 4. Navigated and created a file
 Used `cd lab1` and `touch file1.txt` to create a file.
 
-![file](step4.png)
+![file](step5.png)
 
 ---
 
