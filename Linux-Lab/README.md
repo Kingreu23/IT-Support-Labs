@@ -23,42 +23,42 @@ The purpose of this lab was to install and configure a Linux environment using U
 ### 1. Verified current directory
 Used `pwd` to confirm current working directory.
 
-![pwd](step 1.png)
+![pwd](step1.png)
 
 ---
 
 ### 2. Listed directory contents
 Used `ls` to view existing files and directories.
 
-![ls](step2-ls.png)
+![ls](step2.png)
 
 ---
 
 ### 3. Created a new directory
 Used `mkdir lab1` to create a working folder.
 
-![mkdir](step3-mkdir.png)
+![mkdir](step3.png)
 
 ---
 
 ### 4. Navigated and created a file
 Used `cd lab1` and `touch file1.txt` to create a file.
 
-![file](step4-file-created.png)
+![file](step4.png)
 
 ---
 
 ### 5. Checked and modified permissions
 Used `ls -l` to view permissions and `chmod 700 file1.txt` to restrict access.
 
-![permissions](step5-permissions.png)
+![permissions](step5.png)
 
 ---
 
 ### 6. Updated system packages
 Used `sudo apt update && sudo apt upgrade -y` to update the system.
 
-![update](step6-update.png)
+![update](step8.png)
 
 ---
 
